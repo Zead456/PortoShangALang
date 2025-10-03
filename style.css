@@ -178,6 +178,7 @@ header > button:hover {
   width: 16rem;
   margin-right: 1rem;
   border-radius: 20px;
+  object-fit: cover;
 }
 
 .cards-display > .card > p {
